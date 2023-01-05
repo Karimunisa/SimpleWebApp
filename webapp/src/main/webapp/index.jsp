@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>we will be having python basic scripting session .....</h1>
+         <h1>we will be having python basic scripting session is at the end</h1>
 	   
     </section>    
     <section id="about"><h1>This Is About</h1></section>
